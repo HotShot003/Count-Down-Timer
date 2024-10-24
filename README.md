@@ -18,7 +18,7 @@ This includes the ability to handle multiple countdowns, provide notifications w
 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-# Project Objectives
+## Project Objectives
 
 - User Interface Design: Create a visually appealing and intuitive user interface using modern frontend technologies.
 
